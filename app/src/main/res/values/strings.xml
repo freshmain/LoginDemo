@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="link_sign_up">没有账户？注册一个</string>
+    <string name="link_login">已有账户，返回登录</string>
+    <string name="btn_login">登录</string>
+    <string name="input_Email">邮箱</string>
+    <string name="input_passwd">密码</string>
+    <string name="input_name">用户名</string>
+    <string name="btn_sign_up">注册</string>
+    <string name="email_error">邮件格式错误，请重新输入</string>
+    <string name="passwd_error">密码长度4-10位</string>
+    <string name="name_error">用户名长度大于3位</string>
+    <string name="loading_info">登录中</string>
+    <string name="main_activity">登录成功</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="create_account">创建账户中</string>
+</resources>
